@@ -11,6 +11,8 @@ Before you start this, make sure you have Python, a editor, and git all installe
 
 https://uwpce-pythoncert.github.io/ProgrammingInPython/topics/01-setting_up/index.html#
 
+And a gitHub account (though you probably couldn't read this if you didn't)
+
 
 ## gitHub Classroom:
 
@@ -32,7 +34,7 @@ https://uwpce-pythoncert.github.io/ProgrammingInPython/topics/01-setting_up/test
 
 ### To submit it as an assignment
 
-Follow the instructions above for the `install_test.py` file.
+Follow the instructions above for gitHub Classroom for the `install_test.py` file.
 
 Here's the short version:
 
